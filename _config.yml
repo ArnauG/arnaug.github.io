@@ -16,47 +16,61 @@ exclude: [vendor]
 author:
   name: Arnau Güell Soler
   title: Backend Developer
-  address: Vilafranca del Penedés, Catalunya
-  email: arnaux@gmail.com
+  address: Barcelona, Catalunya
+  email: arnau.guell.soler@gmail.com
   link: http://arnaug.github.io
   weibo:
   github: arnaug
-  linkedin: ddbullfrog
+  linkedin: arnau-güell-soler
 #  twitter: ddbullfrog
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
+      company: Adevinta
+      location: Barcelona, Catalunya
       title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      started: 2018
+      duration: (2018 - Present)
+      description: Backend Developer in a MultiTenant saved search system to provide multiple verticals with realtime content alerts system. The involved technologies of this system are java, postgres, kafka, elastic search...
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
+      company: Schibsted Spain
+      location: Sant Cugat del Valles, Catalunya
       title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      started: 2016
+      duration: (2016 - 2018)
+      description:  Backend Developer in saved search system to provide fotocasa vertical with realtime content alerts system. The involved technologies of this system are java, redis, kafka, elastic search...
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
+      company: Schibsted Spain
+      location: Sant Cugat del Valles, Catalunya
+      title: Full stack Developer
+      started: 2015
+      duration: (2013 - 2016)
+      description: Development of new features for fotocasa.es vertical. This project involved Visual basic, C#, sql server, jquery technologies.
+    - work4:
+      company: Freelance
+      location: Barcelona, Catalunya
+      title: Software consultant
       started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      duration: (2009 - 2013)
+      description: Consulting services for Pimes (VOIP, documental management).. 
+    - work5:
+      company: Cornella de Llobregat town hall
+      location: Barcelona, Catalunya
+      title: Full stack Developer
+      started: 2007
+      duration: (2007 - 2011)
+      description: Development of services and maintenance of management software. 
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
+      organization: Escola Universitària Politècnica del Baix Llobregat 
+      location: Castelldefels, Catalunya
       degree: Bachelor
       major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      started: 2002
+      duration: (2002 - 2006)
+      description: Technical telecommunications engineering, specializing in telematics.
   languages:
     - language1:
       name: Catalan
